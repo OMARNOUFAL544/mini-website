@@ -1,0 +1,150 @@
+body{
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+    background-color: #fff8f0;
+}
+.headline{
+    background-color: #3e2723;
+    text-align: center;
+    color: white;
+}
+body, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+
+.navigation {
+    background-color:#5a3e1b;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 1rem;
+}
+
+.links {
+    display: flex;
+    list-style: none;
+    border: 2px solid transparent;
+    
+}
+
+.links a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    margin-right: 20px;
+}
+.links a:hover {
+    color: #5a3e1b;
+    background-color: #fff8f0;
+    padding: 10px 5px;
+    
+}
+.paragrph{
+    border: 2px solid #ede8e3;
+    border-radius: 10px;
+    background-size: 80%;
+    text-align: center;
+    color: #5a3e1b;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #f4e1d2;
+    background-position: center; 
+    background-repeat: no-repeat;
+    height: 350px; 
+    background-image: url('');
+    background-size: 200px 300px;
+    
+}
+   
+
+.paragrph2{
+    border: 2px solid #ede8e3;
+    border-radius: 10px;
+    background-size: 80%;
+padding-left: 25px;
+    color: #3e2723;
+    margin-left: 10px;
+    margin-right: 10px;  
+    
+}
+.mrh2{
+    padding-left: 20px;
+}
+.list{
+    padding-left: 45px;
+}
+.hover-effect {
+    background-color:#fff8f0;
+    padding: 5px 5px;
+    display: inline-block;
+}
+.hover-effect:hover {
+    background-color: rgb(255, 251, 0);
+    padding: 1px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.hover-effects {
+    background-color:#fff8f0;
+    padding: 5px 5px;
+    display: inline-block;
+}
+.hover-effects:hover {
+    background-color:#c0f852;
+    padding: 1px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.footer{
+    background-color: #3e2723;
+    text-align: center;
+    color: #fff8f1;
+    padding: 30px;
+}
+.paragrph2{
+    border: 2px solid #ede8e3;
+    border-radius: 10px;
+    background-size: 80%;
+padding-left: 25px;
+    color: #3e2723;
+    margin-left: 10px;
+    margin-right: 10px;  
+    
+}
+.discover{
+    background-image: url('');
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid #ede8e3;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    
+}
+.mr-discover{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+    color: white;
+}
+.mr-button{
+    text-decoration: unset;
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+    font-size: 24px;
+    color: #926e44;
+    background-color: #f5f5dc;
+    border: none;
+    padding: 10px 20px;  
+}
+a {
+    text-decoration: none; 
+    color:#755231;
+   
+}
